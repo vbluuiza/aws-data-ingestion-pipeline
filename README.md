@@ -1,6 +1,6 @@
 # 📦 Projeto: Pipeline de Ingestão de Dados na AWS (Camada Bronze)
 
-Este é um projeto **acadêmico** com o objetivo de construir uma pipeline de ingestão de dados utilizando **AWS S3**, estruturando a **camada Bronze** de um Data Lake.
+Este é um projeto **educacional** com o objetivo de construir uma pipeline de ingestão de dados utilizando **AWS S3**, estruturando a **camada Bronze** de um Data Lake.
 
 ---
 
